@@ -111,3 +111,11 @@ Exploring RAG pipelines, tool-using agents, and orchestration patterns
 - **GitHub:** https://github.com/mangeshshindepy  
 - **LinkedIn:** https://www.linkedin.com/in/mangesh-shinde-348338227  
 - **Email:** mangeshshinde728@gmail.com
+
+<!--
+Ideas I actively work on:
+- 🔭 Scalable data platforms & Spark internals
+- 🌱 AI, GenAI, and Agentic workflows
+- 👯 Collaborating on data engineering and AI projects
+- 💬 Ask me about Spark, ETL, Cloud data platforms
+-->
