@@ -6,10 +6,11 @@
 
 ## 🎓 Certifications
 
-- **Google Cloud Certified – Professional Data Engineer (2026)**  
-  Google Cloud  
-  🔗 Credential: https://www.credly.com/badges/86fb09fa-ab36-4dfc-89c7-4507ec79f1ae
-
+- ⭐ **Google Cloud Certified – Professional Data Engineer (2026)**  
+  *Google Cloud*  
+  🔗 https://www.credly.com/badges/86fb09fa-ab36-4dfc-89c7-4507ec79f1ae
+  
+**Validated Skills:** Data Engineering · GCP · BigQuery · Dataflow · Spark · Cloud Architecture
 ---
 
 ## 👨‍💻 About Me
