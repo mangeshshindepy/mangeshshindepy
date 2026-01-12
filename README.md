@@ -6,6 +6,10 @@
 
 ## 🎓 Certifications
 
+<a href="https://www.credly.com/badges/86fb09fa-ab36-4dfc-89c7-4507ec79f1ae">
+  <img src="assets/badges/google-cloud-professional-data-engineer.png" alt="Google Cloud Professional Data Engineer Badge" width="120" />
+</a>
+
 - ⭐ **Google Cloud Certified – Professional Data Engineer (2026)**  
   *Google Cloud*  
   🔗 https://www.credly.com/badges/86fb09fa-ab36-4dfc-89c7-4507ec79f1ae
