@@ -114,7 +114,7 @@ Exploring RAG pipelines, tool-using agents, and orchestration patterns
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/mangeshshindepy  
+- **GitHub:** https://github.com/mangesh-data-ai/mangesh-data-ai  
 - **LinkedIn:** https://www.linkedin.com/in/mangesh-shinde-348338227  
 - **Email:** mangeshshinde728@gmail.com
 
